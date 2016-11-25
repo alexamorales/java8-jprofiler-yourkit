@@ -13,5 +13,3 @@ RUN apt-get install -y bzip2
 
 #RUN wget https://www.yourkit.com/download/yjp-2016.02-b43-linux.tar.bz2
 #RUN tar jxvf yjp-2016.02-b43-linux.tar.bz2
-
-EXPOSE 8849
